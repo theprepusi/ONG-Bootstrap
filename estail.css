@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h5 { 
+    font-size: 150px;
+    font-weight: bolder;
+}
+
+p {
+    font-size: 80px
+    ;
+}
+.navbar {
+    background-color: whitesmoke;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
+    min-height: 100px;
+}
+
+.nav-link { color: darkorange; }
+.nav-link:hover { color: black; }
+
+.logo-brand {
+    min-width: 120px;
+    max-width: 140px;
+
+}
+
+
